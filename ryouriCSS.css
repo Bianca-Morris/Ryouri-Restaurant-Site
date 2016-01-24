@@ -1,0 +1,76 @@
+#logo {
+	max-width: 75%;
+}
+
+.jumbotron {
+	background-image: url("ryouriJumbo.jpg") !important;
+	background-size: cover;
+	color: white !important;
+	text-align: right;
+	height: 400%;
+	box-shadow: 0px 0px 5px #000;
+	padding-right: 48px;
+	text-shadow: black 0.1em 0.1em 0.5em;
+}
+
+h2, h3, h4 {
+	text-align:center;
+}
+
+.fooddisc {
+	text-align: center;
+}
+
+.specials {
+	border:5px;
+}
+
+.eatplaylearn .container {
+	margin-bottom: 5px;
+	padding-bottom: 50px;
+}
+
+header .container,
+.eatplaylearn .container {
+	background-color: white;
+}
+
+.aboutusPage .container,
+.menuPage .container,
+.orderPage .container,
+.visitPage .container {
+	min-height: 100%;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	background-color: white;
+	padding-top:25px;
+	padding-bottom:50px;
+}
+
+.aboutusPage,
+.orderPage {
+	background-color: #333;
+}
+
+.frontPage,
+.menuPage,
+.visitPage {
+	background-color: #FFe766;
+}
+
+.aboutusPage,
+.menuPage,
+.orderPage,
+.visitPage {
+	/*padding-top: 5px;
+	border-left: 5px;
+	border-right: 5px;
+	padding-bottom: 5px;*/
+	min-height: 100%;
+}
+
+#hitsugaya {
+	max-width:98%;
+	padding-right:10px;
+	padding-bottom:5px;
+}
